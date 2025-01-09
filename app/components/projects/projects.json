@@ -1,0 +1,44 @@
+[
+    {
+        "thumbnail":"/portfolio_thumbnail.jpg",
+        "title":"My Portfolio",
+        "link":{
+            "label":"Portfolio Dash",
+            "url":"#"
+        },
+        "description":"A portfolio showcasing my skills, projects, and achievements with a modern, responsive design."
+    },
+    {
+        
+            "thumbnail":"/stegx_thumbnail.jpg",
+            "title":"Steganography",
+            "link":{
+                "label":"GitHub Repo",
+                "url":"#"
+            },
+            "description":"A Python-based steganography tool for encoding and decoding text within images,text,audio ensuring secure and hidden communication."
+        },
+        {
+        
+            "thumbnail":"/inventory_thumbnail.jpg",
+            "title":"Smart Inventory",
+            "link":{
+                "label":"GitHub Repo",
+                "url":"#"
+            },
+            "description":"An inventory system integrating a weighing scale with cloud-based data management via ThingSpeak for real-time tracking and analysis."
+        },
+        {
+        
+            "thumbnail":"/safety_thumbnail.jpg",
+            "title":"Car Safety System",
+            "link":{
+                "label":"GitHub Repo",
+                "url":"#"
+            },
+            "description":"A Iot based prototype alcohol detection system that automatically turns off a car engine when alcohol is detected, enhancing driver safety"
+        }
+
+    
+
+]
