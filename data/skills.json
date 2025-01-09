@@ -12,10 +12,6 @@
         "icon": "/kotlin_icon.png"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "/tailwind1_icon.png"
-    },
-    {
         "name": "CSS",
         "icon": "/css_icon.png"
     },
