@@ -8,9 +8,9 @@ const Hero = () => {
             {/* Text Section */}
             <div className="flex flex-col gap-[13px] items-center md:gap-[34px] md:my-[58px] md:items-start md:w-1/2 md:pl-10 md:order-2">
                 <h1 className="text-2xl/1 font-semibold text-center font-serif md:text-[40px] md:text-start">
-                    Hello, I'm Pravanshu Maji, <br />
+                    Hello, I&#8217;m Pravanshu Maji, <br />
                     <span className="block text-[27px] highlight mt-2 font-serif md:text-[28px] md:mt-0">
-                         I'm a Software Enthusiast
+                         I&#8217;m a Software Enthusiast
                     </span>
                 </h1>
                 <p className="text-center text-sm mx-6 font-serif md:text-[22px] md:text-start md:mx-0">

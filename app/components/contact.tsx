@@ -14,7 +14,7 @@ const Contact = () => {
              <div className="flex flex-col gap-5 items-center md:items-end">
                 <a href="mailto:pravanshumaji75@gmail.com" className="self-center 
                   md:self-start bg-primary text-white p-2.5 rounded flex
-                  gap-2.5 items-center text-lg md:text-xl/l font-serif">Lets get in Touch
+                  gap-2.5 items-center text-lg md:text-xl/l font-serif">Let&#8217;s get in Touch
                   <img src="/mail_icon.svg" alt="Mail icon" />
                   </a>
                   <div className="flex flex-row gap-1">
