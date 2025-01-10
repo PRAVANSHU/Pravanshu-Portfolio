@@ -33,7 +33,7 @@ body {
   }
 
   .highlight{
-    @apply bg-primary text-white px-5 rounded-[4px];
+    @apply bg-primary text-white px-5 rounded-[6px];
 }
 
  .section-contents{

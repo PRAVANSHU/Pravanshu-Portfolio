@@ -7,9 +7,9 @@ const Hero = () => {
             
             {/* Text Section */}
             <div className="flex flex-col gap-[13px] items-center md:gap-[34px] md:my-[58px] md:items-start md:w-1/2 md:pl-10 md:order-2">
-                <h1 className="text-2xl/1 font-semibold text-center font-serif md:text-[40px] md:text-start">
+                <h1 className=" text-[38px] md:text-2xl/1 font-semibold text-center font-serif md:text-[40px] md:text-start">
                     Hello, I&#8217;m Pravanshu Maji, <br />
-                    <span className="block text-[27px] highlight mt-2 font-serif md:text-[28px] md:mt-0">
+                    <span className="block text-[23px] highlight mt-2 font-serif md:text-[28px] md:mt-0 ">
                          I&#8217;m a Software Enthusiast
                     </span>
                 </h1>
@@ -35,21 +35,21 @@ const Hero = () => {
                     alt="light purple rectangle"
                     width={372}
                     height={430}
-                    className=" md:block w-[372px] h-[430px] absolute right-0 -z-10"
+                    className="w-[280px] h-[320px]  md:w-[372px] md:h-[430px] absolute right-0 -z-10"
                 />
                 <Image
                     src="/profile_dark_purple.png"
                     alt="dark purple rectangle"
                     width={372}
                     height={430}
-                    className=" md:block w-[372px] h-[430px] absolute right-0 -z-20"
+                    className="w-[280px] h-[320px] md:w-[372px] md:h-[430px] absolute right-0 -z-20"
                 />
                 <Image
                     src="/pravanshu_profile.jpg"
                     alt="Pravanshu Maji picture"
                     width={357}
                     height={417}
-                    className=" md:block w-[357px] h-[417px] z-10 mr-[7.7px] my-[6.5px] rounded-2xl"
+                    className="w-[250px] h-[308px]  md:w-[357px] md:h-[417px] z-10 mr-[7.7px] my-[6.5px] rounded-2xl"
                 />
             </div>
         </section>

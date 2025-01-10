@@ -4,7 +4,7 @@
         "title":"My Portfolio",
         "link":{
             "label":"Portfolio Dash",
-            "url":"#"
+            "url":"https://github.com/PRAVANSHU/Pravanshu-Portfolio"
         },
         "description":"A portfolio showcasing my skills, projects, and achievements with a modern, responsive design."
     },
@@ -14,7 +14,7 @@
             "title":"Steganography",
             "link":{
                 "label":"GitHub Repo",
-                "url":"#"
+                "url":"https://github.com/PRAVANSHU/Steganography-STEGX-"
             },
             "description":"A Python-based steganography tool for encoding and decoding text within images,text,audio ensuring secure and hidden communication."
         },
@@ -34,7 +34,7 @@
             "title":"Car Safety System",
             "link":{
                 "label":"GitHub Repo",
-                "url":"#"
+                "url":"https://github.com/PRAVANSHU/Alcohol_Sensing_Engine_Locking_System"
             },
             "description":"A Iot based prototype alcohol detection system that automatically turns off a car engine when alcohol is detected, enhancing driver safety"
         }

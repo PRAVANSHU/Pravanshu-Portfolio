@@ -9,7 +9,7 @@ const TopBackground =() => {
         <div className="circle-icon top-0 left-[171px] md:top-28 md:left-72">
             <Image src="/rocket_icon.svg" alt="Rocket image" width={23} height={23}/>
         </div>
-        <div className="circle-icon top-[162px] -left-12 md:top-64 md:left-0">
+        <div className="circle-icon top-[162px] -left-3.5 md:top-64 md:left-0">
             <Image src="/bracket_icon.svg" alt="bracket image" width={23} height={23}/>
         </div>
         <div className="hidden md:circle-icon top-60 left-[149px] md:top-[550px] md:left-0">
