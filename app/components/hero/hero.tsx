@@ -17,7 +17,7 @@ const Hero = () => {
                     Transforming ideas into seamless and impactful digital experiences.
                 </p>
                 <a
-                    href="/pm_resume.pdf"
+                    href="/Pravanshu_Resume_Final1.pdf"
                     target="_blank" 
                     rel="noopener noreferrer"
                     
