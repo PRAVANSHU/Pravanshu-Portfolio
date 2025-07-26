@@ -9,6 +9,24 @@
         "description":"A portfolio showcasing my skills, projects, and achievements with a modern, responsive design."
     },
     {
+        "thumbnail":"/d_chatx.jpg",
+        "title":"Decentralized ChatX",
+        "link":{
+            "label":"Github Repo",
+            "url":"https://github.com/PRAVANSHU/deploy_chatx"
+        },
+        "description":"Built a secure messaging platform using blockchain for user authentication and message storage. Supports private and group chats with real-time communication via WebSockets. Messages are securely stored using Ethereum smart contracts and Pinata Cloud for decentralized file storage."
+    },
+    {
+        "thumbnail":"/chatx2.jpg",
+        "title":"ChatX",
+        "link":{
+            "label":"Github Repo",
+            "url":"https://github.com/PRAVANSHU/chatx-app"
+        },
+        "description":"Developed a responsive messaging platform using the MERN stack with real-time communication via Socket.io. Implemented Zustand for state management, JWT for secure authentication, and styled the UI using TailwindCSS."
+    },
+    {
         
             "thumbnail":"/stegx_thumbnail.jpg",
             "title":"Steganography",
