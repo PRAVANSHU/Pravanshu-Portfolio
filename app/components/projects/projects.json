@@ -9,6 +9,15 @@
         "description":"A portfolio showcasing my skills, projects, and achievements with a modern, responsive design."
     },
     {
+        "thumbnail":"/urbanshift.jpg",
+        "title":"Urban Shifters",
+        "link":{
+            "label":"UrbanShifters Dash",
+            "url":"https://urban-shifters-frontend.vercel.app/"
+        },
+        "description":"An innovative urban mobility platform that connects users with sustainable transportation options, enabling efficient commute planning and real-time updates. The platform offers an intuitive interface, location-based services, and a smooth booking experience to promote eco-friendly travel choices."
+    },
+    {
         "thumbnail":"/d_chatx.jpg",
         "title":"Decentralized ChatX",
         "link":{
