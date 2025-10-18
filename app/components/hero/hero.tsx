@@ -45,7 +45,7 @@ const Hero = () => {
                     className="w-[280px] h-[320px] md:w-[372px] md:h-[430px] absolute right-0 -z-20"
                 />
                 <Image
-                    src="/pravanshu_profile.jpg"
+                    src="/pm_1.png"
                     alt="Pravanshu Maji picture"
                     width={357}
                     height={417}
