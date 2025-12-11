@@ -18,11 +18,20 @@
         "description":"An innovative urban mobility platform that connects users with sustainable transportation options, enabling efficient commute planning and real-time updates. The platform offers an intuitive interface, location-based services, and a smooth booking experience to promote eco-friendly travel choices."
     },
     {
+        "thumbnail":"/yuvasavera.png",
+        "title":"Yuva Savera",
+        "link":{
+            "label":"Yuva Savera Dash",
+            "url":"https://yuva-saveraaa.vercel.app/"
+        },
+        "description":"A youth-led digital platform connecting people in need with volunteers, fostering social empowerment and civic engagement through real-time support."
+    },
+    {
         "thumbnail":"/d_chatx.jpg",
         "title":"Decentralized ChatX",
         "link":{
-            "label":"Github Repo",
-            "url":"https://github.com/PRAVANSHU/deploy_chatx"
+            "label":"ChatX Dash",
+            "url":"https://deploy-chatx.onrender.com/"
         },
         "description":"Built a secure messaging platform using blockchain for user authentication and message storage. Supports private and group chats with real-time communication via WebSockets. Messages are securely stored using Ethereum smart contracts and Pinata Cloud for decentralized file storage."
     },
